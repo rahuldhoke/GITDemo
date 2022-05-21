@@ -11,6 +11,8 @@ public class Test1 {
 	public void test1(String urlname) {
 		System.out.println("Test case 1 executed");
 		System.out.println("URL is " + urlname );
+		System.out.println("URL is and  " + urlname );
+		System.out.println("URL is and and  " + urlname );
 	}
 	
 	@Test
